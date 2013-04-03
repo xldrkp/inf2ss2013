@@ -103,9 +103,6 @@ Present.reload = function() {
     var presentation = location.hash;
     var clean = presentation.substr(1);
 
-
-    console.log(clean);
-
     $.ajax({
         url: '../presentations/' + clean+ '/presentation.md',
         success: function(data) {
