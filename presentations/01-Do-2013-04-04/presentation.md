@@ -57,4 +57,5 @@ Axel Dürkop/Hanno Kallies
 ## Sonstiges ##
 
 * Anwesenheit
+* Nachmeldung
 * vergangenes Semester
