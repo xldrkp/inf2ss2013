@@ -41,7 +41,6 @@ Axel Dürkop/Hanno Kallies
 * Raspberry Pi als Server kennenlernen, Remote-Zugriff
 * Aufbau des *[Hochverfügbarkeitscluster G-3](../presentations/01-Do-2013-04-04/img/HAC-G3.jpg)* in Gebäude N
 * Grundlagen PHP für Web und Hardwareprogrammierung
-* Prüfungsleistung
 
 !
 
@@ -49,6 +48,25 @@ Axel Dürkop/Hanno Kallies
 
 * Projektarbeit
 * Präsentation zum Semesterende
+
+!
+
+## Projektvorschläge ##
+
+* Im Gegensatz zum vorhergehenden Semester:	* umfangreichere Projekte, die von einer größeren Projektgruppe  
+(>= 5 Personen) umgesetzt werden* Die Projekte sollen sowohl eine Webapplikation (dynamische Webseite) sowie eine „Hardwareanwendung“ (Schalten einer Leuchte) enthalten.
+
+!
+
+<img width="100%" src="../presentations/01-Do-2013-04-04/img/hanno-1.png" />
+
+!
+
+<img width="100%" src="../presentations/01-Do-2013-04-04/img/hanno-2.png" />
+
+!
+
+<img width="100%" src="../presentations/01-Do-2013-04-04/img/hanno-3.png" />
 
 !
 
