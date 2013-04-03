@@ -9,6 +9,17 @@ Axel Dürkop/Hanno Kallies
 
 !
 
+## Überblick ##
+
+* Veranstaltungsziele
+* Veranstaltungsaufbau
+* Prüfungsleistungen
+* Tutorium
+* Material und Zugänge
+* Sonstige
+
+!
+
 ## Veranstaltungsziele ##
 
 * Raspberry Pi kennen
@@ -28,7 +39,9 @@ Axel Dürkop/Hanno Kallies
 * Frameworks und Generatoren kennen und einsetzen (Bootstrap)
 * parallel: Übungen zu HTML und CSS zur nächsten Veranstaltung
 * Raspberry Pi als Server kennenlernen, Remote-Zugriff
+* Aufbau des *[Hochverfügbarkeitscluster G-3](../presentations/01-Do-2013-04-04/img/HAC-G3.jpg)* in Gebäude N
 * Grundlagen PHP für Web und Hardwareprogrammierung
+* Prüfungsleistung
 
 !
 
