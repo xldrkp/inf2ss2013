@@ -39,8 +39,12 @@ Axel Dürkop/Hanno Kallies
 * Frameworks und Generatoren kennen und einsetzen (Bootstrap)
 * parallel: Übungen zu HTML und CSS zur nächsten Veranstaltung
 * Raspberry Pi als Server kennenlernen, Remote-Zugriff
-* Aufbau des *[Hochverfügbarkeitscluster G-3](../presentations/01-Do-2013-04-04/img/HAC-G3.jpg)* in Gebäude N
 * Grundlagen PHP für Web und Hardwareprogrammierung
+* Aufbau des *Hochverfügbarkeitsclusters G-3* in Gebäude N
+
+!
+
+<img width="100%" src="../presentations/01-Do-2013-04-04/img/HAC-G3.jpg" />
 
 !
 
