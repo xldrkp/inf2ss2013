@@ -57,8 +57,10 @@ Axel Dürkop/Hanno Kallies
 
 ## Projektvorschläge ##
 
-* Im Gegensatz zum vorhergehenden Semester:	* umfangreichere Projekte, die von einer größeren Projektgruppe  
-(>= 5 Personen) umgesetzt werden* Die Projekte sollen sowohl eine Webapplikation (dynamische Webseite) sowie eine „Hardwareanwendung“ (Schalten einer Leuchte) enthalten.
+* Im Gegensatz zum vorhergehenden Semester:
+	* umfangreichere Projekte, die von einer größeren Projektgruppe  
+(>= 5 Personen) umgesetzt werden
+* Die Projekte sollen sowohl eine Webapplikation (dynamische Webseite) sowie eine „Hardwareanwendung“ (Schalten einer Leuchte) enthalten.
 
 !
 
@@ -83,7 +85,7 @@ Axel Dürkop/Hanno Kallies
 
 ## Material und Zugänge ##
 
-* Blog zur Veranstaltungsbegleitung: http://tinyurl.com/inf2ss2013
+* Blog zur Veranstaltungsbegleitung: **http://tinyurl.com/inf2ss2013**
 * [Präsentationen](http://xldrkp.github.com/inf2ss2013/) 
 * [Etherpad](http://openetherpad.org/inf2ss2013)
 
