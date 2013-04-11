@@ -1,4 +1,4 @@
-# (1) Webinterfaces mit dem Raspberry Pi #
+# Webinterfaces mit dem Raspberry Pi #
 
 <img style="padding-top: 10px; float: right" width="70" src="https://www.tenettech.com/training/Related/Packages/Footer/8/Raspberry_Pi_Logo_4.png" alt="" />
 
@@ -6,7 +6,7 @@ Einführung in die Informatik II
 
 Sommersemester 2013  
 Axel Dürkop/Hanno Kallies<br>
-Veranstaltung: 02-Do-2013-04-04
+Veranstaltung: 01-Do-2013-04-04
 
 !
 
