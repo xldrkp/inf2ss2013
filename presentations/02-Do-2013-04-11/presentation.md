@@ -1,6 +1,6 @@
 # Konfiguration, Shell und Remote-Zugriff #
 
-<img style="padding-top: 10px; float: right" width="70" src="https://www.tenettech.com/training/Related/Packages/Footer/8/Raspberry_Pi_Logo_4.png" alt="" />
+<img style="padding-top: 10px; float: right" width="70" src="../images/Raspberry_Pi_Logo_4.png" alt="" />
 
 Einführung in die Informatik II
 
