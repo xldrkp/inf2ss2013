@@ -1,0 +1,23 @@
+@media screen and (max-width: 959px) {
+    html {
+        background: #66dfff;
+    }
+
+    #wrapper {
+        width: 100%;
+        margin: 20px auto;
+        background: white;
+        padding: 20px;
+        box-shadow: 0px 5px 15px #666;
+
+        -moz-column-count: 1;
+        -webkit-column-count: 1;
+        column-count: 1;
+
+
+    }
+
+    .desktop {
+        display: block;
+    }
+}

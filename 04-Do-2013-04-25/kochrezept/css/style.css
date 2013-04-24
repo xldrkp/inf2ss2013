@@ -1,0 +1,82 @@
+html {
+    background: #fdff92;
+
+}
+
+body {
+    font-family: 'Open Sans', serif;
+    line-height: 20px;
+    font-size: 16px;
+}
+
+#wrapper {
+    box-sizing: border-box;
+    width: 960px;
+    margin: 20px auto;
+    background: white;
+    padding: 20px;
+    box-shadow: 0px 5px 15px #666;
+
+    -moz-column-count: 2;
+    -webkit-column-count: 2;
+    column-count: 2;
+
+
+}
+
+img {
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+}
+
+h1 {
+    line-height: 30px;
+    font-size: 28px;
+}
+
+h1 + p {
+    font-weight: bold;
+}
+
+h1 span {
+    font-weight: normal;
+    font-size: 22px;
+}
+
+a {
+    color: #555;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+p span {
+    font-size: 30px;
+    margin: 0 10px 10px 0;
+    float: left;
+    padding-top: 5px;
+}
+
+.step {
+    text-align: justify;
+}
+
+.source {
+    font-size: 12px;
+}
+
+.desktop {
+    display: none;
+}
+
+.break {
+    -webkit-column-break-before: always;
+    break-before: column;
+}
