@@ -13,19 +13,19 @@ Veranstaltung: 04-Do-2013-04-25
 ## Überblick ##
 
 * Besprechung Übungsaufgaben
-* Roadmap RPI als Hardware
+* **Die Produktion von Webseiten: Veränderungen des Arbeitsprozesses in den letzten 25 Jahren**
 * Grundlagen CSS am Beispiel Kochrezept
+* Roadmap RPI als Hardware
 
 !
 
-## Roadmap RPI als Hardware
+## Grundlagen CSS am Beispiel Kochrezept
 
-* Verfahren im Hinblick auf das Projekt
+* Live Coding
+* Hands on!
 
 !
 
-## Grundlagen CSS 
+## Fahrplan: RPI als Hardware
 
-* Externes CSS
-* Embedded CSS
-* Inline CSS
+* Hanno: Vorstellung des weiteren Verfahrens
